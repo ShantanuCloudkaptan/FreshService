@@ -1,0 +1,1 @@
+This is a sample file to check integration between projects on freshservice and github.
